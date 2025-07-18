@@ -1,1 +1,13 @@
-[]
+{
+    "tickets": [
+        {
+            "id": "dafc9909-6e96-4a33-987c-7a8ade626c54",
+            "equipment": "Teclado",
+            "description": "Tecla de espaço não funciona.",
+            "user_name": "João Pedro",
+            "status": "open",
+            "created_at": "2025-07-18T19:50:08.604Z",
+            "updated_at": "2025-07-18T19:50:08.604Z"
+        }
+    ]
+}
