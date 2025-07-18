@@ -1,7 +1,7 @@
-# 🎫 API RESTful - Gerenciamento de Tickets de Suporte
+# 🎫 API - Gerenciamento de Tickets de Suporte
 
 Este projeto foi desenvolvido como parte prática do módulo de **Node.js** da **Formação Full Stack da Rocketseat**.  
-O objetivo é consolidar os conhecimentos sobre criação de APIs RESTful utilizando Node.js puro, sem frameworks como Express.
+O objetivo é consolidar os conhecimentos sobre criação de APIs utilizando Node.js puro, sem frameworks como Express.
 
 ---
 
@@ -35,4 +35,3 @@ A API permite **criar**, **listar**, **atualizar** e **deletar** tickets de supo
 - Criação de banco de dados em memória com salvamento em arquivo JSON
 - Manipulação assíncrona de arquivos com `fs/promises`
 - Leitura e escrita de dados com `JSON.parse` e `JSON.stringify`
-- Padrões RESTful
